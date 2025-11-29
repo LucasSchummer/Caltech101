@@ -1,0 +1,11 @@
+jupyter
+notebook
+ipykernel
+numpy
+opencv-python
+scikit-learn
+matplotlib
+torch
+torchvision
+tensorboard
+tqdm
